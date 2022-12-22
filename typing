@@ -1,0 +1,21 @@
+<html>
+<head>
+<title> Subject list.</title>
+</head>
+<body bgcolor="orange">
+<h1>Main Subject</h1>
+<ul type="square"> 
+<li>Nepali
+<li>Computer
+<li>Science
+<li>Social
+<li>ENGLISH
+</ul>
+<b>Choose</b>
+<ol type="1" start="a">
+<li>opt maths
+<li>opt account
+</ol>
+</form>
+</body>
+</html>
